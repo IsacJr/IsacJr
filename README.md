@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on [CESAR](https://github.com/CESARBR)
 
-- 🌱 I’m currently learning **web development and devops tools**
+- 🌱 I’m currently learning **web and mobile development**
 
-- 💬 Ask me about **dotnet core, angular, and react**
+- 💬 Ask me about **.NET Core, Angular, and React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
