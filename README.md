@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Isac</h1>
 
-- 🔭 I’m currently working on [CESAR](https://github.com/CESARBR)
+- 🔭 I’m currently open to work
 
-- 🌱 I’m currently learning **web and mobile development**
+- 🌱 I’m currently learning **web development and software architecture**
 
 - 💬 Ask me about **.NET Core, Angular, and React**
 
