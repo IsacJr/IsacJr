@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently open to work
 
-- 🌱 I’m currently learning **web development and software architecture**
+- 🌱 I’m currently learning **web development, software architecture, and aws**
 
 - 💬 Ask me about **.NET Core, Angular, and React**
 
